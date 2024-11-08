@@ -1,0 +1,2 @@
+,algo,input,device,cuml_time,cpu_time,cuml_acc,cpu_acc,speedup,n_samples,n_features
+0,KMeans,gpuarray,gpu,1.8497109413146973,0.0,1.0000000000000002,0.0,0.0,1000000,256

@@ -1,0 +1,4 @@
+{"backend": "cuml", "nrows": 10000000, "ncols": 256, "fit_time": 2.6169519424438477, "managed_memory": 1}
+{"backend": "cuml", "nrows": 20000000, "ncols": 256, "fit_time": 3.378032684326172, "managed_memory": 1}
+{"backend": "cuml", "nrows": 30000000, "ncols": 256, "fit_time": 5.870862722396851, "managed_memory": 1}
+{"backend": "cuml", "nrows": 40000000, "ncols": 256, "fit_time": 8.086620092391968, "managed_memory": 1}

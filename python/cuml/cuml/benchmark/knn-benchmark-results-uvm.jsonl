@@ -1,0 +1,7 @@
+{"backend": "cuml", "nrows": 5000000, "ncols": 256, "fit_time": 0.7354159355163574, "managed_memory": 1}
+{"backend": "cuml", "nrows": 10000000, "ncols": 256, "fit_time": 0.030272722244262695, "managed_memory": 1}
+{"backend": "cuml", "nrows": 15000000, "ncols": 256, "fit_time": 0.042688608169555664, "managed_memory": 1}
+{"backend": "cuml", "nrows": 20000000, "ncols": 256, "fit_time": 0.0567774772644043, "managed_memory": 1}
+{"backend": "cuml", "nrows": 25000000, "ncols": 256, "fit_time": 0.06717061996459961, "managed_memory": 1}
+{"backend": "cuml", "nrows": 30000000, "ncols": 256, "fit_time": 0.08194351196289062, "managed_memory": 1}
+{"backend": "cuml", "nrows": 40000000, "ncols": 256, "fit_time": 0.10860538482666016, "managed_memory": 1}

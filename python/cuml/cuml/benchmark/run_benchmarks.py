@@ -15,11 +15,17 @@
 #
 """Command-line ML benchmark runner"""
 
+import rmm
+rmm.mr.set_current_device_resource(rmm.mr.ManagedMemoryResource())
+print("MANAGED MEMORY ON")
+
+
 import json
 from cuml.benchmark import algorithms, datagen, runners
 from cuml.internals.safe_imports import cpu_only_import
 
 np = cpu_only_import("numpy")
+
 
 
 PrecisionMap = {
