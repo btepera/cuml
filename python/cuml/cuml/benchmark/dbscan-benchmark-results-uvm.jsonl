@@ -1,0 +1,1 @@
+{"backend": "cuml", "nrows": 2000000, "ncols": 256, "fit_time": 460.2227952480316, "managed_memory": 1}
